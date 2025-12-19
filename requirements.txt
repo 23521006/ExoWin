@@ -1,0 +1,19 @@
+# Core dependencies
+typer[all]
+rich
+pefile
+capstone
+ppdeep
+peutils
+jinja2
+
+# GUI dependencies
+customtkinter
+pillow
+
+# Development dependencies
+pytest
+pytest-cov
+black
+flake8
+mypy
